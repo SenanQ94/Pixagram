@@ -38,7 +38,3 @@ Pixagram is a social media platform that allows users to share, view, interact, 
 ## View the Website
 
 🚀 **Explore Pixagram on the web:** [Visit Pixagram](https://pixagram-a0161.firebaseapp.com/)
-
-## Contributing
-
-If you'd like to contribute to Pixagram, please follow our [contribution guidelines](CONTRIBUTING.md).
