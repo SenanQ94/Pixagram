@@ -6,9 +6,10 @@
 
 🚀 **Explore Pixagram on the web**: [Visit Pixagram](https://pixagram-a0161.firebaseapp.com/)
 
+Feel free to explore the platform and share your posts with the community!
+
 ---
 
-Feel free to explore the platform and share your posts with the community!
 
 ## Features
 
