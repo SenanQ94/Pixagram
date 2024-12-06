@@ -2,6 +2,14 @@
 
 **Pixagram** is a social media platform that allows users to share, view, interact, and save posts. Built with **React**, **TypeScript**, **Firebase Realtime Database**, and **Firebase Authentication**, Pixagram offers an engaging experience for users to interact with content securely and efficiently.
 
+## View the Website
+
+🚀 **Explore Pixagram on the web**: [Visit Pixagram](https://pixagram-a0161.firebaseapp.com/)
+
+---
+
+Feel free to explore the platform and share your posts with the community!
+
 ## Features
 
 ### 1. **User Authentication**
@@ -33,10 +41,4 @@ A powerful search feature allowing users to search for posts based on various cr
 - **Firebase Realtime Database**: A cloud-hosted NoSQL database that allows data to be stored and synced in real-time across all users.
 - **Firebase Authentication**: Simplifies backend services and provides SDKs for easy user authentication and management.
 
-## View the Website
 
-🚀 **Explore Pixagram on the web**: [Visit Pixagram](https://pixagram-a0161.firebaseapp.com/)
-
----
-
-Feel free to explore the platform and share your posts with the community!
